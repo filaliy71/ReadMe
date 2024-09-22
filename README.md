@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Youssef Filali</h1>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
 
-# 💫 About Me:
-🔭 I’m currently not working, I'm free to work with you as a freelancer or on other projects.<br>👯 I’m looking to collaborate on web development projects, especially those involving full-stack technologies like React, Next.js, Vue, Node.js, Larvel and PHP.<br>🤝 I’m looking for help with expanding my knowledge in cloud-native applications and advanced JavaScript frameworks.<br>🌱 I’m currently learning Next.js and Vue.js to enhance my front-end development skills.<br>💬 Ask me about full-stack development, JavaScript frameworks, Agile methodologies.<br>⚡ Fun fact: I enjoy creating interactive web experiences, like turning animated websites, interactive website!<br>
-
-
 ## 🌐 Socials:
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/yusuf_fiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusuf_fiy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/filali-youssef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filali-youssef" height="30" width="40" /></a>
 <a href="https://instagram.com/filaliy71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filaliy71" height="30" width="40" /></a>
+<a href="https://filaliy.vercel.app" target="blank"><p align="center" alt="filaliy71">Portfolio</p></a>
 </p>
 
 # 💻 Tech Stack:
